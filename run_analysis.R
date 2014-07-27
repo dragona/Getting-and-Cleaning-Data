@@ -137,4 +137,6 @@ for(i in 1:subjectLen) {
 }
 #save the file
 write.table(result, "tidy_data.txt") 
-  
+
+
+#Reference : Sally Zhang
